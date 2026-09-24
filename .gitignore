@@ -1,6 +1,7 @@
 # Local experiments, generated artifacts, environments, and model caches
 /work/
 /outputs/
+/data/
 /.venv/
 __pycache__/
 *.py[cod]
