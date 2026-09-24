@@ -1,0 +1,9 @@
+[project]
+name = "nanoclm"
+version = "0.1.0"
+description = "A minimal Contrastive Language Model trainer"
+requires-python = ">=3.12"
+dependencies = [
+    "sentence-transformers==6.1.0",
+    "torch==2.14.0",
+]
