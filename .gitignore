@@ -1,0 +1,9 @@
+# Local experiments, generated artifacts, environments, and model caches
+/work/
+/outputs/
+/.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
